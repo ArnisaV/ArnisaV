@@ -22,13 +22,13 @@ body
     align-items: center;
     z-index: 100;
 }
-.logo
-{
+.logo{
     position: relative;
     font-size: 25px;
     color: #fff;
     text-decoration: none;
     font-weight: 600;
+
 }
 .navbar a {
     display: inline-block;
@@ -46,7 +46,7 @@ body
     position: relative;
     width: 100%;
     justify-content: space-between;
-    height: 1000vh;
+    height: 100vh;
     background: url(purple\ Illustrated\ Montain\ Desktop\ Wallpaper.png) no-repeat;
     background-size: cover;
     background-position: center;
