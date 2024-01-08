@@ -43,14 +43,14 @@ body
     color: #0ef;
 }
 .home {
-    position: relative;
-    width: 100%;
-    justify-content: space-between;
-    height: 100vh;
-    background: url(purple\ Illustrated\ Montain\ Desktop\ Wallpaper.png) no-repeat;
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    align-items: center;
-    padding: 70px 10% 0;
+   position: relative;
+   width: 100%;
+   justify-content: space-between;
+   height: 100vh;
+   background: url(purple\ Illustrated\ Montain\ Desktop\ Wallpaper.png) no-repeat;
+   background-size: cover;
+   background-position: center;
+   display: flex;
+   align-items: center;
+   padding: 70px 10% 0;
 }
