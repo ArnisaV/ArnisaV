@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    padding: 0;
+   padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
     font-family: 'poppins', 'sans-serif';
@@ -58,12 +58,12 @@ body {
     width: 100%;
     justify-content: space-between;
     height: 100vh;
-    background: url(/img/Purple\ Illustrated\ Mountain\ Desktop\ Wallpaper.png) no-repeat;
+    background: url(img/Purple\ Illustrated\ Mountain\ Desktop\ Wallpaper.png) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
-    align-items: center;
-    padding: 70px 10% 0;
+   align-items: center;
+   padding: 70px 10% 0;
 }
 
 .home-content {
