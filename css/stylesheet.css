@@ -8,7 +8,7 @@
 
 body {
     color: #ededed;
-    background: #081b29;
+    background: #182722;
 }
 
 .header {
@@ -17,7 +17,7 @@ body {
     left: 0;
     width: 100%;
     padding: 20px 10%;
-    background: #051129;
+    background: #011808;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -50,7 +50,7 @@ body {
 }
 
 .navbar a:hover {
-    color: #0ef;
+    color: rgb(94, 151, 155);
 }
 
 .home {
@@ -58,7 +58,7 @@ body {
     width: 100%;
     justify-content: space-between;
     height: 100vh;
-    background: url(../img/Purple\ Illustrated\ Mountain\ Desktop\ Wallpaper.png) no-repeat;
+    background: url(../img/777.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -679,7 +679,7 @@ section{
     width: 100%;
     text-align: center;
     padding: 25px 0;
-    background: rgb(7, 85, 91);
+    background: rgb(1, 31, 13);
     font-weight: 300;
     margin-top: 70px;
 }
